@@ -23,7 +23,7 @@ repository               : "deepneuralnetworks/deepneuralnetworks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_1.png"
   name             : "Jaehoon Kim"
   pronouns         : # example: "she/her"  
   bio              : "I am Jaehoon Kim, a Ph.D candidate in Industrial Management and Engineering at Korea University, advised by Professor Seoung Bum Kim. My research focus is on Reinforcement Learning, especially for improving the sample efficiency in robotics."
