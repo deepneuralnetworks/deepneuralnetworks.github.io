@@ -22,7 +22,10 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-       
+  
+  - title: "Awards/Patents"
+    url: /etc/
+  
   - title: "CV"
     url: /cv/
     
