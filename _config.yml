@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Jaehoon Kim / Ph.D"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Jaehoon Kim / Ph.D"
 title_separator          : "-"
 name                     : &name "Jaehoon Kim"
 description              : &description "Personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
